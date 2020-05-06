@@ -8,3 +8,4 @@ From the [Exercism](https://exercism.io) website. Doing the [Dart track](https:/
 * Resistor Color Duo
 * Reverse String
 * Leap
+* Scrabble Score
