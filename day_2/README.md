@@ -9,3 +9,4 @@ From the [Exercism](https://exercism.io) website. Doing the [Dart track](https:/
 * Reverse String
 * Leap
 * Scrabble Score
+* Armstrong Numbers
