@@ -7,3 +7,4 @@ From the [Exercism](https://exercism.io) website. Doing the [Dart track](https:/
 * Two-fer
 * Resistor Color Duo
 * Reverse String
+* Leap
