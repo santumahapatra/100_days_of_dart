@@ -6,3 +6,4 @@ From the [Exercism](https://exercism.io) website. Doing the [Dart track](https:/
 * Resistor Colors
 * Two-fer
 * Resistor Color Duo
+* Reverse String
