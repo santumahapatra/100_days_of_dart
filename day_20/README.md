@@ -1,5 +1,5 @@
-# Day 19
+# Day 20
 
 # Concepts Practised:
 
-* Maps
+* ForEach in Maps
