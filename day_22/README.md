@@ -1,4 +1,4 @@
-# Day 21
+# Day 22
 
 # Concepts Practised:
 
