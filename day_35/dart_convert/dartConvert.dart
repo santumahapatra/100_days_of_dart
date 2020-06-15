@@ -1,13 +1,15 @@
 import 'dart:convert';
+import 'dart:io';
 
-var lineNumber = 1;
-var stream = File('quotes.txt').openRead();
+void main(){
+  var lineNumber = 1;
+  var stream = File('quotes.txt').openRead();
 
-stream.transform(utf8.decoder)
-      .transform(const LineSplitter())
-      .listen((line){
-        if(showLineNumbers){
+  stream.transform(utf8.decoder)
+        .transform(const LineSplitter())
+        .listen((line){
           stdout.write('${lineNumber++} ');
-        }
-        stdout.writeln(line);
-      });
+          stdout.writeln(line);
+        });
+}
+
