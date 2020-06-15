@@ -1,0 +1,3 @@
+name: 'folder_padding'
+dependencies:
+  path: ^1.7.0
